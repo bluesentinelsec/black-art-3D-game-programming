@@ -1,0 +1,2 @@
+del *.EXE
+del *.OBJ
